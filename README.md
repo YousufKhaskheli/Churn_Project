@@ -61,11 +61,13 @@ All models were evaluated on the same held-out test set (20% of the data). Tuned
 
 Hyperparameter tuning made a large difference: Random Forest improved from F1 0.531 to 0.631 and XGBoost from 0.575 to 0.631.
 
-### Charts
+### Screenshots
 
 ![Home page](visuals/home.png)
 
 ![Prediction page](visuals/prediction.png)
+
+### Charts
 
 ![ROC and precision-recall curves](visuals/roc_pr_curves.png)
 
