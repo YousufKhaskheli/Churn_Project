@@ -4,5 +4,4 @@ venv/
 .env
 models/*.pkl
 models/*.h5
-models/*.joblib
 .ipynb_checkpoints/
