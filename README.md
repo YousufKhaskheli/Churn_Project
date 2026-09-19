@@ -1,6 +1,6 @@
 # Customer Churn Prediction & Comparative Machine Learning Dashboard
 
-**Live app:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+**Live app:** [https://yousuf-telco-churn.streamlit.app](https://yousuf-telco-churn.streamlit.app)
 
 An end-to-end data science project that predicts whether a telecom customer will leave (churn) or stay, compares eight machine learning models, and serves the best one through an interactive Streamlit dashboard.
 
@@ -63,11 +63,16 @@ Hyperparameter tuning made a large difference: Random Forest improved from F1 0.
 
 ### Charts
 
+![Home page](visuals/home.png)
+
+![Prediction page](visuals/prediction.png)
+
 ![ROC and precision-recall curves](visuals/roc_pr_curves.png)
 
 ![Confusion matrices](visuals/confusion_matrices.png)
 
 ![Feature importance](visuals/feature_importance.png)
+
 
 ## Dashboard
 
